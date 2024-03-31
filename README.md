@@ -1,3 +1,3 @@
-# JS_Template
+Linkki [palvelimelle](https://users.metropolia.fi/~jimipe/wsk1/viikko2/JS_recap3/JS_recap3/)
 
-Use this template to start new node project
+
