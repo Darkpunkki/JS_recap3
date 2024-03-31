@@ -1,0 +1,26 @@
+body {
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 700px;
+  width: 800px
+}
+
+#restaurantModal {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  top: 300px;
+  right: 720px;
+  background-color: rgb(159, 219, 247);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transform: none;
+  width: 300px;
+}
+
